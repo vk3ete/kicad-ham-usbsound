@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 01home-kicad-mod)(type Legacy)(uri /Users/davidstd/Documents/Kicad/Lib/01home-library/01home-symbols/01home-kicad-mod.lib)(options "")(descr ""))
+  (lib (name ETE006-CM119B-Breatout-rescue)(type Legacy)(uri ${KIPRJMOD}/ETE006-CM119B-Breatout-rescue.lib)(options "")(descr ""))
+)
